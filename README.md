@@ -1,2 +1,3 @@
-# expo-Notifications-Tutorial
-This is the code for this tutorial https://youtu.be/J_MVpa3odgA
+# Expo Notifications Tutorial
+
+This is an example of how to use Expo Notifications
